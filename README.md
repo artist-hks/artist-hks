@@ -2,13 +2,13 @@
 🔭 I am Hemant. A Computer Science student at PIET, Jaipur.  
 🎨 UI/UX designer who enjoys crafting clean and user-friendly interfaces  
 💻 Web developer turning ideas into real projects  
+🖌️ Artist who loves sketching and digital creativity.  
 🤖 Exploring Machine Learning and AI step by step  
 🎮 I also work on Game design , Game Research and development, combining creativity with technical skills.
-🖌️ Artist who loves sketching and digital creativity.  
 
-🌱 Currently learning: Machine Learning...
+🌱 Currently learning: Machine Learning
+
 ☁️ Open to collaborating on creative tech or ML projects  
-
 ⚡ Fun fact: My mind is often full of game ideas, design concepts, and animation ideas.
 <br>
 
