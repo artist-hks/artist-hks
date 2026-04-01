@@ -4,17 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Enthusiast • UI/UX Designer • Creative Developer
 -----------------------------------------------------------------
 
-I’m Hemant Kumar Sharma (HKS), a Computer Science student who enjoys building intelligent systems and designing clean, user-friendly digital experiences.
+I’m Hemant Sharma (HKS), a Computer Science student with a strong interest in Machine Learning and UI/UX design.
 
-I work at the intersection of Machine Learning and UI/UX, turning ideas into real-world applications. From developing predictive ML models to designing interactive dashboards, I focus on creating solutions that are both functional and visually engaging.
+I enjoy building practical, real-world projects by combining data-driven solutions with clean and user-friendly interfaces. My work focuses on developing machine learning models and presenting them through interactive and intuitive applications.
 
-I’ve built projects like a Diabetes Risk Prediction system, a Game Addiction Detector, and a Video Game Sales Intelligence dashboard — handling everything from data preprocessing to deployment.
+I have worked on projects such as Diabetes Risk Prediction, Game Addiction Detection, and a Video Game Sales Intelligence dashboard, where I handled tasks from data preprocessing and model building to deployment.
 
-Apart from tech, I’m also a national-level sketch artist, which reflects in my design sense and attention to detail.
+Along with development, I have a creative background in design and sketching, which helps me maintain a strong focus on aesthetics and user experience.
 
-My goal is to create advanced AI systems and eventually build an intelligent assistant like Jarvis.
+I’m continuously learning and exploring new technologies to improve my skills and build more efficient and impactful solutions.
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [artist.hks.dev@gmail.com](mailto:artist.hks.dev@gmail.com)
 * 🧠  I'm currently learning Machine Learning • Deep Learning • Advanced UI/UX
 * 👥  I'm looking to collaborate on AI/ML Projects • UI/UX Design • Innovative Tech Ideas
@@ -26,11 +25,4 @@ My goal is to create advanced AI systems and eventually build an intelligent ass
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/artist-hks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/artisthks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/artist_hks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/artist-hks"><img src="https://github-readme-stats.vercel.app/api?username=artist-hks&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="artist-hks's GitHub stats" /></a>
-
-<a href="https://github.com/artist-hks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artist-hks&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://www.github.com/artist-hks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/artisthks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
