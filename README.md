@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Enthusiast • UI/UX Designer • Creative Developer
 -----------------------------------------------------------------
 
-I’m Hemant Sharma (HKS), a Computer Science student with a strong interest in Machine Learning and UI/UX design.
-
 I enjoy building practical, real-world projects by combining data-driven solutions with clean and user-friendly interfaces. My work focuses on developing machine learning models and presenting them through interactive and intuitive applications.
 
 I have worked on projects such as Diabetes Risk Prediction, Game Addiction Detection, and a Video Game Sales Intelligence dashboard, where I handled tasks from data preprocessing and model building to deployment.
