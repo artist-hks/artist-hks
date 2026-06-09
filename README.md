@@ -21,7 +21,7 @@ const hemant = {
   location:   "Jaipur, Rajasthan 🇮🇳",
   education:  "B.Tech CSE — Semester 6",
   currently:  "MERN Stack Intern @ Groot Software",
-  building:   ["CampusOS", "ContextCare AI", "hks-portfolio"],
+  building:   ["Colleqo", "ContextCare AI", "hks-portfolio"],
   interests:  ["Full-Stack Dev", "UI/UX Design", "System Architecture"],
   contact:    "artist.hks.dev@gmail.com",
   funFact:    "I design before I code — always."
@@ -36,7 +36,7 @@ const hemant = {
 <tr>
 <td width="50%">
 
-### 🏫 CampusOS
+### 🏫 Colleqo
 **Next-Gen College Management System**
 
 Full-stack PWA with role-based dashboards for Students, Faculty, HOD, Admin, Librarian & Hostel Warden. Multi-tenant architecture — one deployment, multiple institutions.
