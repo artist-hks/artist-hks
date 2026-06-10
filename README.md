@@ -21,7 +21,7 @@ const hemant = {
   location:   "Jaipur, Rajasthan 🇮🇳",
   education:  "B.Tech CSE — Semester 6",
   currently:  "MERN Stack Intern @ Groot Software",
-  building:   ["Colleqo", "ContextCare AI", "hks-portfolio"],
+  building:   ["Colleqo", "LegalLens", "SentimentStock"],
   interests:  ["Full-Stack Dev", "UI/UX Design", "System Architecture"],
   contact:    "artist.hks.dev@gmail.com",
   funFact:    "I design before I code — always."
@@ -48,43 +48,45 @@ Full-stack PWA with role-based dashboards for Students, Faculty, HOD, Admin, Lib
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/CampusOS)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/Colleqo)
+[![Live](https://img.shields.io/badge/Live-campusos.pages.dev-4CAF50?style=flat-square&logo=cloudflare&logoColor=white)](https://campusos.pages.dev)
 
 </td>
 <td width="50%">
 
-### 🏥 ContextCare AI
-**Intelligent Real-Time Clinical Workspace**
+### ⚖️ LegalLens
+**AI-Powered Legal Document Risk Analyzer**
 
-Medical SaaS — scan a lab report with your phone → OCR extracts values → live WebSocket pushes data to doctor's dashboard instantly.
+Client-side legal document analyzer for Indian SMEs. Upload any contract → clause-by-clause risk detection → 0–100 risk score → plain-language summaries in English & हिंदी. Zero backend, zero signup.
 
-**Live at** [context-care.vercel.app](https://context-care.vercel.app)
+**Live at** [legal-lens-hks.vercel.app](https://legal-lens-hks.vercel.app)
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/ContextCare)
-[![Live](https://img.shields.io/badge/Live-Demo-FF6B6B?style=flat-square&logo=vercel)](https://context-care.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/LegalLens)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square&logo=vercel)](https://legal-lens-hks.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💼 Portfolio
-**Personal Developer Portfolio**
+### 📈 SentimentStock
+**NSE Hinglish Sentiment Analyzer**
 
-Live portfolio showcasing my work, built with TypeScript. Continuously updated throughout my internship with new projects and improvements.
+Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hinglish NLP. Lag correlation analysis, LSTM-style predictions, real-time price ticks, and sentiment gauge — all client-side.
 
-**Live at** [artist-hks.vercel.app](https://artist-hks.vercel.app)
+**Live at** [sentiment-stock-hks.vercel.app](https://sentiment-stock-hks.vercel.app)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/hks-portfolio)
-[![Live](https://img.shields.io/badge/Live-Portfolio-00D9FF?style=flat-square&logo=vercel)](https://artist-hks.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/SentimentStock)
+[![Live](https://img.shields.io/badge/Live-Demo-FF6B6B?style=flat-square&logo=vercel)](https://sentiment-stock-hks.vercel.app)
 
 </td>
 <td width="50%">
