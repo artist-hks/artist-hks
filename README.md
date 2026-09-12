@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Hemant%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Builder&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Hemant%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Full-Stack%20AI&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+from+scratch;MERN+%7C+Next.js+%7C+FastAPI+%7C+TypeScript;Interning+%40+Groot+Software+%F0%9F%9A%80;Based+in+Jaipur%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+from+scratch;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Python+%7C+FastAPI+%7C+React+%7C+TypeScript;Turning+ideas+into+production-ready+systems;Based+in+Jaipur%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,19 +14,56 @@
 
 ## 👋 About Me
 
-```typescript
-const hemant = {
-  name:       "Hemant Sharma",
-  alias:      "artist-hks",
-  location:   "Jaipur, Rajasthan 🇮🇳",
-  education:  "B.Tech CSE — Semester 6",
-  currently:  "MERN Stack Intern @ Groot Software",
-  building:   ["Colleqo", "LegalLens", "SentimentStock"],
-  interests:  ["Full-Stack Dev", "UI/UX Design", "System Architecture"],
-  contact:    "artist.hks.dev@gmail.com",
-  funFact:    "I design before I code — always."
-};
-```
+    const hemant = {
+      name:       "Hemant Sharma",
+      alias:      "artist-hks",
+      location:   "Jaipur, Rajasthan 🇮🇳",
+      education:  "B.Tech CSE",
+      focus:      ["AI Engineering", "Machine Learning", "Deep Learning", "LLM Systems"],
+      building:   ["AI-powered applications", "Intelligent backend systems", "End-to-end products"],
+      stack:      ["Python", "FastAPI", "React", "TypeScript"],
+      interests:  ["AI/ML", "System Architecture", "Full-Stack Development", "Product Design"],
+      contact:    "artist.hks.dev@gmail.com",
+      funFact:    "I design before I code — always."
+    };
+
+---
+
+## 🧠 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+Building practical AI systems with a focus on:
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- LLM-based applications
+- Model experimentation & evaluation
+- AI-powered decision systems
+
+</td>
+
+<td width="50%">
+
+### ⚙️ AI Engineering
+
+Turning models into usable software through:
+
+- Python & FastAPI
+- REST APIs & backend systems
+- React & TypeScript
+- Database-driven applications
+- System architecture
+- Production-oriented development
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,9 +76,11 @@ const hemant = {
 ### 🏫 Colleqo
 **Next-Gen College Management System**
 
-Full-stack PWA with role-based dashboards for Students, Faculty, HOD, Admin, Librarian & Hostel Warden. Multi-tenant architecture — one deployment, multiple institutions.
+Full-stack PWA with role-based dashboards for Students, Faculty, HOD, Admin, Librarian & Hostel Warden.
 
-**Offline-first.** Works without internet via Service Workers + IndexedDB.
+Multi-tenant architecture designed to support multiple institutions from a single deployment.
+
+**Offline-first.** Works without internet through Service Workers + IndexedDB.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square)
@@ -52,14 +91,17 @@ Full-stack PWA with role-based dashboards for Students, Faculty, HOD, Admin, Lib
 [![Live](https://img.shields.io/badge/Live-campusos.pages.dev-4CAF50?style=flat-square&logo=cloudflare&logoColor=white)](https://campusos.pages.dev)
 
 </td>
+
 <td width="50%">
 
 ### ⚖️ LegalLens
 **AI-Powered Legal Document Risk Analyzer**
 
-Client-side legal document analyzer for Indian SMEs. Upload any contract → clause-by-clause risk detection → 0–100 risk score → plain-language summaries in English & हिंदी. Zero backend, zero signup.
+Client-side legal document analyzer designed for Indian SMEs.
 
-**Live at** [legal-lens-hks.vercel.app](https://legal-lens-hks.vercel.app)
+Upload a contract → clause-by-clause risk detection → 0–100 risk score → plain-language summaries in English & हिंदी.
+
+**Zero backend. Zero signup.**
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -70,15 +112,17 @@ Client-side legal document analyzer for Indian SMEs. Upload any contract → cla
 
 </td>
 </tr>
+
 <tr>
+
 <td width="50%">
 
 ### 📈 SentimentStock
 **NSE Hinglish Sentiment Analyzer**
 
-Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hinglish NLP. Lag correlation analysis, LSTM-style predictions, real-time price ticks, and sentiment gauge — all client-side.
+Bloomberg Terminal-style dashboard exploring stock prediction through Hinglish NLP and market sentiment.
 
-**Live at** [sentiment-stock-hks.vercel.app](https://sentiment-stock-hks.vercel.app)
+Includes lag correlation analysis, LSTM-style predictions, real-time price ticks and sentiment visualization.
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -89,19 +133,20 @@ Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hingl
 [![Live](https://img.shields.io/badge/Live-Demo-FF6B6B?style=flat-square&logo=vercel)](https://sentiment-stock-hks.vercel.app)
 
 </td>
+
 <td width="50%">
 
-### 📋 Internship Log
-**Groot Software — MERN Stack Internship**
+### 🧪 Machine Learning Lab
+**Learning ML by Building From Scratch**
 
-45-day daily work log documenting every project, learning, and code decision during my internship at Groot Software (May–July 2026).
+Hands-on implementations and experiments covering the foundations of Machine Learning and Deep Learning.
 
-![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square)
+Focused on understanding algorithms, mathematics, model behavior and implementation rather than treating ML as a collection of magic library calls.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Log-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks/groot-software-internship)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0D1117?style=flat-square&logo=github)](https://github.com/artist-hks)
 
 </td>
+
 </tr>
 </table>
 
@@ -109,7 +154,15 @@ Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hingl
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 🤖 AI / ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -117,26 +170,70 @@ Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hingl
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend**
+### ⚙️ Backend
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Database & Cloud**
+### 🗄️ Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Tools & Design**
+### 🔧 Tools & Design
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Currently Exploring
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 Deep Learning
+
+Neural Networks  
+CNNs  
+Sequence Models  
+Model Training  
+Evaluation & Optimization
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧬 LLM Engineering
+
+LLM Applications  
+Prompt Engineering  
+RAG Systems  
+Embeddings  
+AI Agents
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏗️ AI Systems
+
+Model → API  
+Backend Integration  
+Data Pipelines  
+System Architecture  
+Production AI
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -145,6 +242,7 @@ Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hingl
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artist-hks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artist-hks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8"/>
 
 </div>
@@ -162,9 +260,13 @@ Bloomberg Terminal-style dashboard for NSE/BSE stock prediction powered by Hingl
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-artist--hks.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://artist-hks.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-artisthks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artisthks)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-artist__hks-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/artist_hks)
+
 [![Email](https://img.shields.io/badge/Email-artist.hks.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artist.hks.dev@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-artist__hks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artist_hks)
 
 </div>
